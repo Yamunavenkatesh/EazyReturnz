@@ -1,3 +1,3 @@
-Website to recycle E-waste, 
+Website to recycle E-waste
 <br>
 Author- Yamuna V
