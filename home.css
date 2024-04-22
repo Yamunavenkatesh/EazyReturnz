@@ -35,7 +35,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #050202;
+    color: #f6eded;
     text-decoration: none;
     font-size: 18px;
     transition: color 0.3s ease;
@@ -47,9 +47,9 @@ nav ul li a:hover {
 
 /* Hero section styles */
 .hero {
-    background-image: url('recycling.jpg'); /* Place your image URL here */
+    background-image: "https://media.istockphoto.com/id/1426841984/photo/collection-of-recycling-bins-with-different-types-of-waste.webp?b=1&s=170667a&w=0&k=20&c=PYkBfoFSCk2rQzwW7gAZUESIX_tMWZS9zwNGzhE5e9Q=";
     background-size: cover;
-    color: #fff;
+    color: #0f0d0d;
     padding: 100px 0;
     text-align: center;
 }
