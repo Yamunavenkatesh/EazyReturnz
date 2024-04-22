@@ -1,3 +1,4 @@
-Website to recycle E-waste
+# EazyReturnz
+Website to recycle E-waste 
 <br>
-Author- Yamuna V
+Author-Yamuna V
