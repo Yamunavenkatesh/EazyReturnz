@@ -47,7 +47,7 @@ nav ul li a:hover {
 
 /* Hero section styles */
 .hero {
-    background-image: "https://media.istockphoto.com/id/1426841984/photo/collection-of-recycling-bins-with-different-types-of-waste.webp?b=1&s=170667a&w=0&k=20&c=PYkBfoFSCk2rQzwW7gAZUESIX_tMWZS9zwNGzhE5e9Q=";
+    background-image: url(https://media.istockphoto.com/id/1426841984/photo/collection-of-recycling-bins-with-different-types-of-waste.webp?b=1&s=170667a&w=0&k=20&c=PYkBfoFSCk2rQzwW7gAZUESIX_tMWZS9zwNGzhE5e9Q=);
     background-size: cover;
     color: #0f0d0d;
     padding: 100px 0;
