@@ -29,12 +29,17 @@ body {
   }
   
   button {
-    padding: 10px 20px;
+    padding: 10px 100px;
     background-color: #040405;
     color: #fff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+  }
+
+  span.psw {
+    float: left;
+    padding-top: 16px;
   }
   
   button:hover {
@@ -46,3 +51,15 @@ body {
     font-weight: bold;
   }
   
+  .signup-link {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.signup-link a {
+    color: #050607;
+    text-decoration: underline;
+}
+
+
+
