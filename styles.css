@@ -7,6 +7,8 @@ body {
     align-items: center;
     height: 100vh;
     background-color: #f4f4f4;
+    background-image: url(https://img.freepik.com/premium-photo/old-electronic-devices-dark-background-concept-recycling-disposal-electronic-waste-copy-space_76255-1810.jpg);
+    background-size: cover;
     
   }
   .form-group {
