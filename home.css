@@ -8,6 +8,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f2f2f2;
+    
 }
 
 /* Header styles */
@@ -42,14 +43,14 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #f39c12;
+    color: #220ad3;
 }
 
 /* Hero section styles */
 .hero {
-    background-image: url(https://media.istockphoto.com/id/1426841984/photo/collection-of-recycling-bins-with-different-types-of-waste.webp?b=1&s=170667a&w=0&k=20&c=PYkBfoFSCk2rQzwW7gAZUESIX_tMWZS9zwNGzhE5e9Q=);
+    background-image: url(https://as2.ftcdn.net/v2/jpg/07/82/66/51/1000_F_782665179_xITu2P2OnEQ45b3dbPy5qOMBv8pys0TS.jpg);
     background-size: cover;
-    color: #0f0d0d;
+    color: #eeeaea;
     padding: 100px 0;
     text-align: center;
 }
@@ -80,7 +81,7 @@ nav ul li a:hover {
 }
 
 .service:hover {
-    background-color: #f39c12;
+    background-color: #e9e7e5;
     color: #fff;
 }
 
